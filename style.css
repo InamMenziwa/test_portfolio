@@ -1,0 +1,166 @@
+body {
+    background-color: #11141B;
+    margin: 0px;
+    color: white;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+h1 {
+    margin-top: 0px;
+    font-size: 290%;
+    line-height: 30px;
+}
+
+.sql {
+    padding-top: 220px;
+    position: absolute;
+    left: 1030px;
+}
+.bottom {
+    background-color: #E5E4E2;
+    color: black;
+    height: 550px;
+    
+}
+.bottom_guy {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top_guy {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.top {
+    position: relative;
+    padding-top: 100px;
+}
+.pp {
+    height: 300px;
+}
+.right_guy {
+    position: absolute;
+    bottom: 250px;
+    right: 350px;
+}
+.ppp {
+    height: 350px;
+    padding-top: 30px;
+}
+#padbottom {
+    padding-bottom: 40px;
+}
+.padpic {
+    padding-top: 50px;
+}
+#django {
+    padding-top: 20px;
+    position: absolute;
+    left: 170px;
+}
+.small_paragraph_text {
+    word-wrap: break-word;
+    position: absolute;
+    font-family: 'Abel', sans-serif;
+    right: 950px;
+    top: 1270px;
+    width: 300px;
+    color: #404040;
+}
+.secondp {
+    word-wrap: break-word;
+    position: absolute;
+    font-family: 'Abel', sans-serif;
+    right: 525px;
+    top: 1270px;
+    width: 300px;
+    color: #404040;
+}
+#oop {
+    padding-top: 20px;
+    position: absolute;
+    left: 650px;
+}
+#htmll {
+    padding-top: 20px;
+    position: absolute;
+    left: 1000px;
+}
+.htmlcss {
+    word-wrap: break-word;
+    position: absolute;
+    font-family: 'Abel', sans-serif;
+    right: 150px;
+    top: 1270px;
+    width: 300px;
+    color: #404040;
+}
+.sqltext {
+    word-wrap: break-word;
+    position: absolute;
+    font-family: 'Abel', sans-serif;
+    right: 150px;
+    top: 1470px;
+    width: 300px;
+    color: #404040;
+}
+.datascience {
+    padding-top: 220px;
+    position: absolute;
+    left: 610px;
+}
+.dstext {
+    word-wrap: break-word;
+    position: absolute;
+    font-family: 'Abel', sans-serif;
+    right: 525px;
+    top: 1470px;
+    width: 300px;
+    color: #404040;
+}
+.autotext {
+    word-wrap: break-word;
+    position: absolute;
+    font-family: 'Abel', sans-serif;
+    right: 950px;
+    top: 1470px;
+    width: 300px;
+    color: #404040;
+}
+.autohead {
+    padding-top: 220px;
+    position: absolute;
+    left: 170px;
+}
+#lastdiv {
+    height: 120px;
+}
+.btn {
+    position: relative;
+    bottom: -80px;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #a8a8a8;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #a3a3a3;
+    background-image: -webkit-linear-gradient(top, #a3a3a3, #616161);
+    background-image: -moz-linear-gradient(top, #a3a3a3, #616161);
+    background-image: -ms-linear-gradient(top, #a3a3a3, #616161);
+    background-image: -o-linear-gradient(top, #a3a3a3, #616161);
+    background-image: linear-gradient(to bottom, #a3a3a3, #616161);
+    text-decoration: none;
+  }
+.topp {
+    position: absolute;
+    padding-top: 20px;
+    right: 545px;
+}
